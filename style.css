@@ -700,8 +700,11 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    display: flex;
+    justify-content: space-around;
     margin: auto auto auto auto;
+    margin-top: 14px;
+    margin-bottom: 8px;
 }
 
 h2 {
