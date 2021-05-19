@@ -954,6 +954,8 @@ h4 {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none !important;
+        width: 100%;
+        flex-direction: column;
     }
 
     .navbar.row {
